@@ -9,3 +9,12 @@ This assignment required students to create four programs that each uses a http:
 
 ### plot1
 <img src="plot1.png">
+
+### plot2
+<img src="plot2.png">
+
+### plot3
+<img src="plot3.png">
+
+### plot4
+<img src="plot4.png">
