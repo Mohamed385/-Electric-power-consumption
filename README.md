@@ -8,4 +8,4 @@ Please note that I chose not to for the fork the repo at https://github.com/rdpe
 This assignment required students to create four programs that each uses a http://archive.ics.uci.edu/ml/ and create a graph.
 
 ### plot1
-![]plot1.png
+<img src="plot1.png">
